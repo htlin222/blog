@@ -14,7 +14,6 @@ module.exports = {
     menu: siteConfig.menu,
     author: siteConfig.author
   },
-  plugins: [`gatsby-plugin-netlify-cms`],
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
