@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Hsieh-Ting Lin',
+  subtitle: 'PGY醫師，於和信治癌中心醫院、人夫、育有一女、好蜴蜴',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,24 +16,29 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: '關於我',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: '聯絡我',
       path: '/pages/contacts'
+    },
+    {
+      label: '內科筆記',
+      path: 'https://imnote.hsieh.website/'
+
     }
   ],
   author: {
-    name: 'John Doe',
+    name: '林協霆',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'PGY醫師@和信治癌中心醫院、人夫、育有一女',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'ppoiu87@gmail.com',
+      facebook: 'Tim.H.Lin',
+      telegram: '',
+      twitter: '',
+      github: 'htlin222',
       rss: '',
       vkontakte: '',
       linkedin: '#',
@@ -44,7 +49,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: 'as-a-med-student',
     }
   }
 };
