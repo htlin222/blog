@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  repo: htlin222/blog
 
 media_folder: "static/media"
 public_folder: "/media"
