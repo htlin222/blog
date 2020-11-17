@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://htlin.site/',
   pathPrefix: '/',
-  title: 'Hsieh-Ting Lin',
-  subtitle: 'PGY醫師，於和信治癌中心醫院、人夫、育有一女、好蜴蜴',
+  title: '蜴',
+  subtitle: '林協霆，PGY醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,13 +26,12 @@ module.exports = {
     {
       label: '內科筆記',
       path: 'https://imnote.hsieh.website/'
-
     }
   ],
   author: {
-    name: '林協霆',
+    name: '蜴蜴醫師',
     photo: '/photo.jpg',
-    bio: 'PGY醫師@和信治癌中心醫院、人夫、育有一女',
+    bio: '林協霆，PGY醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
     contacts: {
       email: 'ppoiu87@gmail.com',
       facebook: 'Tim.H.Lin',
