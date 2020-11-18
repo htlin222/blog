@@ -6,7 +6,7 @@ module.exports = {
   title: '蜴',
   subtitle: '林協霆，PGY醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'htlin',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
