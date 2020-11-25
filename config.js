@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://htlin.site/',
   pathPrefix: '/',
-  title: '蜴',
-  subtitle: '林協霆，PGY醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
+  title: '林協霆的blog，一個寫寫雜文、醫學筆記的地方',
+  subtitle: '林協霆，PGY醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。寫點醫學筆記，關於簡報設計、程式、Guideline整理。請多指教',
   copyright: '© All rights reserved.',
   disqusShortname: 'htlin',
   postsPerPage: 4,
@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: '聯絡我',
-      path: '/pages/contacts'
+      label: '我開的課',
+      path: '/pages/online-class'
     },
     {
       label: '內科筆記',
@@ -40,7 +40,7 @@ module.exports = {
       github: 'htlin222',
       rss: '',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'hsiehting-lin',
       instagram: 'htlin.site',
       line: '',
       gitlab: '',
