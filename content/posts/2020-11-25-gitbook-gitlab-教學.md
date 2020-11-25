@@ -3,7 +3,7 @@ template: post
 title: Gitbook+GitLab 教學
 slug: gitbook
 socialImage: /media/42-line-bible.jpg
-draft: true
+draft: false
 date: 2020-11-25T05:11:51.643Z
 description: 之前看到柯文哲的市政白皮書用Gitbook，決定來研究個使用方式。雖然目前主要的主力是用Mkdocs，但當初寫的文章還是放在這裡留個紀錄
 category: tutorial
