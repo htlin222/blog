@@ -1,25 +1,23 @@
 ---
 template: post
-title: Art of Perfection
-slug: perfecting-the-art-of-perfection
+title: 2020-11閱讀清單
+slug: reading-list
 socialImage: /media/image-2.jpg
 draft: false
-date: 2016-09-01T23:46:37.121Z
-description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
-  at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
-  orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
-  Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue
-  elementum.
-category: Design Inspiration
+date: 2020-11-25T04:49:07.603Z
+description: 老胡曾說過：「我大概在R1開始，受到一位主治醫師的啟發，開始漫長的paper閱讀生活，手上大概會有10幾篇列印出來的paper」受此啟發，決定開始整理閱讀清單
+category: list
 tags:
-  - Handwriting
-  - Learning to write
+  - article
+  - journal
 ---
+# 閱讀清單
+* [ATS reading List](https://www.thoracic.org/professionals/career-development/residents-medical-students/ats-reading-list/adult/index.php?fbclid=IwAR0UB_np7uzdTJvtemOq7eVH4cVX77obuL67bsoJpUA4izpdfmbo5fe_QUE)
+* [UCincinnati IM Residency](https://www.thesilverfridge.com/reading-lists-1)
+* [Internal Medicine Residency Readings ](https://guides.himmelfarb.gwu.edu/imreadings?fbclid=IwAR3xZ_0033LHYJNvRAq_pKNNYtezks-jMmSMv9d09EHmYfSz3Xxrx75XgM0)
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+# 單篇
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+* Clebak, Karl T., Ashley Morrison, and Jason R. Croad. "Gout: Rapid Evidence Review." American Family Physician 102.9 (2020): 533-538.
+* Mittal, Ravinder, and Michael F. Vaezi. "Esophageal Motility Disorders and Gastroesophageal Reflux Disease." New England Journal of Medicine 383.20 (2020): 1961-1972.
+* Lu, Karen H., and Russell R. Broaddus. "Endometrial Cancer." New England Journal of Medicine 383.21 (2020): 2053-2064.
