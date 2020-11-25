@@ -15,6 +15,7 @@ tags:
   - NEJM
 ---
 # Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版
+![](https://i.imgur.com/7ao1XI5.png)
 
 ## 複製方法：
 [先點我進到Google連節](https://docs.google.com/presentation/d/1VvV4z7gW3BvG6KmsVq2Mzh0uVYsgoR5S9OOcgkAXbA8/edit?usp=sharing)
