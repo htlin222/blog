@@ -46,7 +46,7 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '林協霆',
+      youtube: '',
       soundcloud: '',
       medium: 'as-a-med-student',
     }
