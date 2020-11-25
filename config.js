@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: '所有文章',
       path: '/'
     },
     {
@@ -22,6 +22,10 @@ module.exports = {
     {
       label: '我開的課',
       path: '/pages/online-class'
+    },
+    {
+      label: '教學',
+      path: '/category/tutorial/'
     },
     {
       label: '內科筆記',
