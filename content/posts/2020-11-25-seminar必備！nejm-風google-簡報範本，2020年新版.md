@@ -3,7 +3,7 @@ template: post
 title: Seminar必備！NEJM 風Google 簡報範本，2020年新版
 slug: nejm-slides
 socialImage: /media/image-4.jpg
-draft: true
+draft: false
 date: 2020-11-25T05:24:19.125Z
 description: 如何讓Seminar上的簡報看起來很有「醫學」專業？不是Icon、不是動畫、更不是五顏六色的素材，你需要的，是一份看起來很像NEJM的簡報
   (連結在本文的最下面XD，請先把文章看完吧)
