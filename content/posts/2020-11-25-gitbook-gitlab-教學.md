@@ -81,6 +81,7 @@ category: tutorial
 
 5. 接著把下面這段代碼貼入文件內，然後存檔
 > 這是我目前個人的配置，在"plugines"中我設置了一些當用的插件，如果想要知道更多內容，可以看[這裡](https://www.crifan.com/gitbook_book_json_parameter_config/)。想要安裝更多插件，可以看[這裡](https://segmentfault.com/a/1190000019806829)的教學
+
 ``` = node.js
 {
   "author": "作者",
@@ -122,8 +123,8 @@ category: tutorial
     }
   }
 }
-
 ```
+
 
 ### 4: 打開終端機
 2. 在mac中，把我們的檔案夾拉到dock中的終端機圖示上放開
