@@ -26,10 +26,6 @@ module.exports = {
     {
       label: '教學',
       path: '/category/tutorial/'
-    },
-    {
-      label: '內科筆記',
-      path: 'https://imnote.hsieh.website/'
     }
   ],
   author: {
