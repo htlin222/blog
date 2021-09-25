@@ -6,7 +6,7 @@ socialImage: /media/image-2.jpg
 draft: false
 ---
 
-在和信治癌中心醫院Koo Foundation Sun Yat-Sen Cancer Center - 擔任內科住完醫師
+在和信治癌中心醫院Koo Foundation Sun Yat-Sen Cancer Center - 擔任內科住院醫師
 
 
 lizard.timelog.to
