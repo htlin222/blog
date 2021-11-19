@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: '蜴蜴醫師',
     photo: '/photo.jpg',
-    bio: '林協霆，內科住院醫師，任職於和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
+    bio: '林協霆，內科住院醫師，任和信治癌中心醫院。老婆的好蜴蜴，育有一女。',
     contacts: {
       email: 'ppoiu87@gmail.com',
       facebook: 'Tim.H.Lin',
