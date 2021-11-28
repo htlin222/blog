@@ -1,8 +1,8 @@
 ---
 template: post
-title: CVC insertion note
+title: CVC insertion note 打CVC小技巧
 slug: CVC insertion note
-socialImage: /media/image-2.jpg
+socialImage: /media/image-4.jpg
 draft: false
 date: 2021-09-25T07:08:44.631Z
 description: 關於如何打CVC的一些小筆記
