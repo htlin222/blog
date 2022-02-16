@@ -1,7 +1,7 @@
 ---
 template: post
 title: markdown自動產生投影片，以hackmd為例
-slug: medical chart
+slug: medical-chart
 socialImage: /media/image-4.jpg
 draft: false
 date: 2020-11-25T06:41:58.778Z
