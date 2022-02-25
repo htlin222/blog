@@ -1,6 +1,6 @@
 ---
 template: post
-title: CVC insertion note - 打CVC小技巧
+title: 如何打CVC
 slug: CVC-insertion-note
 socialImage: /media/image-4.jpg
 draft: false
@@ -10,7 +10,7 @@ category: tutorial
 tags:
   - tutorial
 ---
-# CVC insertion note
+# 如何打CVC ? CVC insertion note
 ###### tags: `tutorials`
 ## Prepare
 一邊想著操作順序，一邊把東西排好：
