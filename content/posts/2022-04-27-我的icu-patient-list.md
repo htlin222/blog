@@ -1,6 +1,6 @@
 ---
 template: post
-title: 我的ICU patient list
+title: 我🦎 的ICU patient list
 slug: iculist
 socialImage: /media/iculist.jpg
 draft: false
@@ -8,7 +8,7 @@ date: 2022-04-27T03:16:54.559Z
 description: >
   跌跌撞撞過完一個月北榮 ICU course，雖然還是覺得自己很廢，但還是覺得有稍稍掌握了critical
   care的精神。粗算一下每個病人每班都有大約100件需要知道的事，從呼吸器設定到接下來的動向，10個病人乘起來就有1000件事，而預設的交班單是厚厚一疊紙，要查找也不夠快，查房VS隨口一句：所以病人的ventilator
-  setting如何？直接腦袋打結。因此要如何把這500件事有效率的整理起來真的很需要一張有大局觀的list。這份list是從上班的第一天開始一路迭代到月底，使用起來還算順手。
+  setting如何？直接腦袋打結。因此要如何把這1000件事有效率的整理起來真的很需要一張有大局觀的list。這份list是從上班的第一天開始一路迭代到月底，使用起來還算順手。
 category: tutorial
 ---
 跌跌撞撞過完一個月北榮 ICU course，雖然還是覺得自己很廢，但還是覺得有稍稍掌握了critical care的精神。粗算一下每個病人每班都有大約100件需要知道的事，從呼吸器設定到接下來的動向，10個病人乘起來就有1000件事，而預設的交班單是厚厚一疊紙，要查找也不夠快，查房VS隨口一句：所以病人的ventilator setting如何？直接腦袋打結。因此要如何把這500件事有效率的整理起來真的很需要一張有大局觀的list。這份list是從上班的第一天開始一路迭代到月底，使用起來還算順手。
