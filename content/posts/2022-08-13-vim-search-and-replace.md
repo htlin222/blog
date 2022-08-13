@@ -1,6 +1,6 @@
 ---
 template: post
-title: 
+title:
 slug: slug-is-something-like-this
 socialImage: /media/image-2.jpg
 draft: false
