@@ -1,6 +1,6 @@
 ---
 template: post
-title: 
+title:
 slug: slug-is-something-like-this
 socialImage: /media/image-2.jpg
 draft: true
@@ -13,3 +13,4 @@ category: tutorial
 [Open a URL from Vim - Today I Learned](https://til.hashrocket.com/posts/69e7479ab9-open-a-url-from-vim)
 [簡單 ssh 進 instance，用 ssh_config 來幫你設定 alias - Askie's Coding Life](https://askie.today/lets-set-ssh-config/)
 [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/)
+12345
