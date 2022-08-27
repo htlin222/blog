@@ -1,11 +1,11 @@
 ---
 template: post
 title: 用Raycast, Pandoc, Zotero實現Cite While You Write
-slug: slug-is-something-like-this
+slug: raycast-pandoc-zotero-make
 socialImage: /media/image-2.jpg
 draft: false
 date: 2022-08-28
-description: 這個人很懶不想打介紹
+description: (1)一個可以直接叫出如同zotero picker視窗的替代軟體，插入citation key，這裡使用Raycast (2)利用pandoc，把bib檔匯入。
 category: tutorial
 link-citations: true
 ---
