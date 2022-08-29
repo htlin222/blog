@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://htlin.site/',
   pathPrefix: '/',
-  title: '林協霆的blog，雜文、醫學筆記、程式學習。',
+  title: '林協霆的blog',
   subtitle: '林協霆，內科住院醫師，任職於和信治癌中心醫院。老婆的好蜴蜴🦎，育有一女👶。',
   copyright: '© All rights reserved.',
   disqusShortname: 'htlin',
