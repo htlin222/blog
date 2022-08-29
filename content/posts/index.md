@@ -7,3 +7,5 @@
 2022-08-22-pyenv.md
 2022-08-22-zotero.md
 2022-08-28-md-bib-make.md
+2022-08-29-anki-obsidian.md
+
