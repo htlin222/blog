@@ -10,3 +10,4 @@
 2022-08-29-anki-obsidian.md
 2022-08-31-r-bookdown.md
 2022-09-01-jama-temp.md
+2022-09-13-pandoc-md-to-pptx.md
