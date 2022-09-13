@@ -14,13 +14,15 @@ category: tutorial
 
 ## TL;DR
 
-我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令：
-
-範本檔可以下載我的簡單NEJM風： [blog/nejm.pptx · htlin222/blog](https://github.com/htlin222/blog/blob/master/static/media/nejm.pptx)，載好後打開母片編輯，對照下面的格式來看
+* 首先要下載pandoc [Pandoc - Installing pandoc](https://pandoc.org/installing.html)
+* 我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令：
 
 ```shell=
 pandoc 來源檔.md -o 投影片名.pptx --reference-doc 範本檔.pptx
 ```
+
+範本檔可以下載我的簡單NEJM風： [blog/nejm.pptx · htlin222/blog](https://github.com/htlin222/blog/blob/master/static/media/nejm.pptx)，載好後打開母片編輯，對照下面的說明。
+
 
 ## 範本檔設計
 
