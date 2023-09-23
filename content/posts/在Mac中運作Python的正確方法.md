@@ -2,7 +2,7 @@
 template: post
 title: 在Mac中運作Python的正確方法
 slug: pyenv-jupyter-in-macos
-socialImage: /media/image-2.jpg
+socialImage: https://i.imgur.com/XF57xPc.png
 draft: false
 date: 2022-08-22
 description: 有時，我們只想寫一段小程式，並不需要anaconda的那一堆程式，這個時候開速搭建一個虛擬環境，為這個環境建立專用的python執行檔、及專用的pip3，我們就可以輕量化自己的開發環境，下面介紹pyenv - python的虛擬環境管理方法。
