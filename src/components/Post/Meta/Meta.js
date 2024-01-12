@@ -17,10 +17,6 @@ const Meta = ({ date }: Props) => (
         day: "numeric",
       })}
     </p>
-    <meta
-      property="og:image"
-      content="https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${title}"
-    />
   </div>
 );
 
