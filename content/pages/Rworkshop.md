@@ -2,7 +2,7 @@
 title: "R 語言工作坊"
 template: "page"
 slug: "rworkshop"
-socialImage: "/media/rwokshop_blog.png"
+socialImage: "/media/rworkshop_blog.png"
 ---
 
 # 課程介紹
