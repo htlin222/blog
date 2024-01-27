@@ -21,18 +21,18 @@ module.exports = {
       path: "/pages/about",
     },
     {
-      label: "我開的課",
+      label: "線上課程",
       path: "/pages/online-class",
     },
     {
-      label: "教學",
+      label: "教學文章",
       path: "/category/tutorial/",
     },
   ],
   author: {
     name: "蜴蜴醫師",
     photo: "/photo.jpg",
-    bio: "林協霆，內科住院醫師，任和信治癌中心醫院。老婆的好蜴蜴，育有一女。",
+    bio: "林協霆，血液腫瘤科專研醫師，任和信治癌中心醫院。老婆的好蜴蜴，育有一女。",
     contacts: {
       email: "1izard@duck.com",
       facebook: "htlin.lizard",
@@ -42,7 +42,6 @@ module.exports = {
       rss: "https://htlin.site/rss.xml",
       vkontakte: "",
       linkedin: "hsiehting-lin",
-      instagram: "htlin.site",
       line: "",
       gitlab: "",
       weibo: "",
