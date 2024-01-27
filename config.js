@@ -41,6 +41,7 @@ module.exports = {
       github: "htlin222",
       rss: "https://htlin.site/rss.xml",
       vkontakte: "",
+      instagram: "",
       linkedin: "hsiehting-lin",
       line: "",
       gitlab: "",
