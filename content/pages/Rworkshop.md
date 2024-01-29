@@ -5,7 +5,8 @@ slug: "rworkshop"
 socialImage: "/media/rworkshop_blog.png"
 ---
 
-# R 語言一日工作坊：快速掌醫學臨床研究的必備工具
+- [課綱](#課綱)
+- [報名相關連結](#報名相關連結)
 
 > 課程介紹：對於想從事研究的人來說，熟悉掌握一門統計工具是所有初學者開頭必定會面對的問題。現在很多學術期刊都對分析軟體有版權要求，學習使用 R 語言即可以避免這個問題。然而 R 語言畢竟是一門程式語言，對於從未寫過的程式的初學者來說，往往望之卻步。線上課程也較少針對醫學相關研究的主題，都只是在單純教語法跟涵數而已。本課程面向想在醫療行業工作的研究者，在一天之內快速掌握 R 語言最精華的部分，特別針對醫學相關研究，如 t 檢驗、卡方檢驗、存活分析、table 1 製作、Forest Plot 製作。
 
@@ -52,3 +53,7 @@ socialImage: "/media/rworkshop_blog.png"
    - 實際操作：參與者將完成一個簡單的醫學數據分析項目
    - 問題討論：回答學員在學習過程中的疑問
    - 資源和進階學習指南分享
+
+## 報名相關連結
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfev_AyG7J2QdpzDoCBur3KEsNy9o1O9PlwwbpfO-Bxf7HV2Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
