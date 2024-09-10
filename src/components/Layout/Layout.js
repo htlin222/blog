@@ -15,9 +15,8 @@ type Props = {
 const Layout = ({ children, title, description, socialImage = "" }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
-  const metaImageUrl =
-    "https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=" + title;
-
+  const encodedTitle = encodeURIComponent(title.trim()); // 使用 encodeURIComponent 更安全的方式進行編碼
+  const metaImageUrl = `https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${encodedTitle}`;
   return (
     <div className={styles.layout}>
       <Helmet>
@@ -26,6 +25,9 @@ const Layout = ({ children, title, description, socialImage = "" }: Props) => {
         <meta name="description" content={description} />
         <meta property="og:site_name" content={title} />
         <meta property="og:image" content={metaImageUrl} />
+        <meta property="og:url" content="https://oncologist.tw/" />
+        <meta property="og:type" content="article" />
+        <meta property="og:logo" content="https://oncologist.tw/photo.jpg" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
