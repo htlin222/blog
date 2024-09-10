@@ -23,9 +23,11 @@ const Layout = ({ children, title, description, socialImage = "" }: Props) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="og:description" content={description} />
         <meta property="og:site_name" content={title} />
+        <meta property="og:title" content={title} />
         <meta property="og:image" content={metaImageUrl} />
-        <meta property="og:url" content="https://oncologist.tw/" />
+        <meta property="og:url" content={url} />
         <meta property="og:type" content="article" />
         <meta property="og:logo" content="https://oncologist.tw/photo.jpg" />
         <meta name="twitter:card" content="summary" />
