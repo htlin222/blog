@@ -16,7 +16,7 @@ const Layout = ({ children, title, description, socialImage = "" }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
   const encodedTitle = encodeURIComponent(title.trim()); // 使用 encodeURIComponent 更安全的方式進行編碼
-  const metaImageUrl = `https://og-mlkgi530p-htlin222.vercel.app/api/blog?templateTitle=${encodedTitle}`;
+  const metaImageUrl = `https://og-htlin222.vercel.app/api/blog?templateTitle=${encodedTitle}`;
   return (
     <div className={styles.layout}>
       <Helmet>
