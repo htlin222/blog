@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/blog?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/blog?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/blog?style=flat-square)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd29dbc9-3e63-41f1-af68-e43a522bd958/deploy-status)](https://app.netlify.com/sites/htlin/deploys)
 
 <h1 align="center">
